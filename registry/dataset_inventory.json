@@ -1,0 +1,67 @@
+{
+  "registry_version": "1.0",
+  "policy_version": "1.0",
+  "updated_at": "2026-10-01",
+  "datasets": [
+    {
+      "dataset_id": "openai/gsm8k",
+      "display_name": "Grade School Math 8K",
+      "owner_team": "Evaluation Benchmarks",
+      "usage_tier": "commercial",
+      "declared_license": "mit",
+      "release_channel": "public",
+      "release_date": "2024-02-15",
+      "status": "pending_review"
+    },
+    {
+      "dataset_id": "Anthropic/hh-rlhf",
+      "display_name": "HH-RLHF Preference Data",
+      "owner_team": "Alignment Research",
+      "usage_tier": "research_only",
+      "declared_license": "mit",
+      "release_channel": "public",
+      "release_date": "2023-04-01",
+      "status": "pending_review"
+    },
+    {
+      "dataset_id": "google-research-datasets/go_emotions",
+      "display_name": "GoEmotions",
+      "owner_team": "Content Safety",
+      "usage_tier": "commercial",
+      "declared_license": "apache-2.0",
+      "release_channel": "public",
+      "release_date": "2023-09-12",
+      "status": "pending_review"
+    },
+    {
+      "dataset_id": "databricks/databricks-dolly-15k",
+      "display_name": "Dolly 15K Instruction Corpus",
+      "owner_team": "Model Training",
+      "usage_tier": "research_only",
+      "declared_license": "mit",
+      "release_channel": "partner",
+      "release_date": "2023-06-20",
+      "status": "pending_review"
+    },
+    {
+      "dataset_id": "tatsu-lab/alpaca",
+      "display_name": "Alpaca Instruction Data",
+      "owner_team": "Model Training",
+      "usage_tier": "commercial",
+      "declared_license": "cc-by-nc-4.0",
+      "release_channel": "public",
+      "release_date": "2023-03-18",
+      "status": "pending_review"
+    },
+    {
+      "dataset_id": "stanfordnlp/imdb",
+      "display_name": "IMDB Movie Reviews",
+      "owner_team": "Sentiment Analytics",
+      "usage_tier": "research_only",
+      "declared_license": "cc-by-4.0",
+      "release_channel": "public",
+      "release_date": "2023-01-05",
+      "status": "pending_review"
+    }
+  ]
+}
