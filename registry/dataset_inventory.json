@@ -11,7 +11,10 @@
       "declared_license": "mit",
       "release_channel": "public",
       "release_date": "2024-02-15",
-      "status": "pending_review"
+      "status": "verified",
+      "reason": "compliant",
+      "verified_license": "mit",
+      "last_audited": "2026-11-11"
     },
     {
       "dataset_id": "Anthropic/hh-rlhf",
@@ -21,7 +24,10 @@
       "declared_license": "mit",
       "release_channel": "public",
       "release_date": "2023-04-01",
-      "status": "pending_review"
+      "status": "verified",
+      "reason": "compliant",
+      "verified_license": "mit",
+      "last_audited": "2026-11-11"
     },
     {
       "dataset_id": "google-research-datasets/go_emotions",
@@ -31,17 +37,23 @@
       "declared_license": "apache-2.0",
       "release_channel": "public",
       "release_date": "2023-09-12",
-      "status": "pending_review"
+      "status": "verified",
+      "reason": "compliant",
+      "verified_license": "apache-2.0",
+      "last_audited": "2026-11-11"
     },
     {
       "dataset_id": "databricks/databricks-dolly-15k",
       "display_name": "Dolly 15K Instruction Corpus",
       "owner_team": "Model Training",
       "usage_tier": "research_only",
-      "declared_license": "mit",
+      "declared_license": "cc-by-sa-3.0",
       "release_channel": "partner",
       "release_date": "2023-06-20",
-      "status": "pending_review"
+      "status": "corrected",
+      "reason": "declared_license_mismatch",
+      "verified_license": "cc-by-sa-3.0",
+      "last_audited": "2026-11-11"
     },
     {
       "dataset_id": "tatsu-lab/alpaca",
@@ -51,7 +63,10 @@
       "declared_license": "cc-by-nc-4.0",
       "release_channel": "public",
       "release_date": "2023-03-18",
-      "status": "pending_review"
+      "status": "escalated",
+      "reason": "commercial_use_not_permitted",
+      "verified_license": "cc-by-nc-4.0",
+      "last_audited": "2026-11-11"
     },
     {
       "dataset_id": "stanfordnlp/imdb",
@@ -61,7 +76,10 @@
       "declared_license": "cc-by-4.0",
       "release_channel": "public",
       "release_date": "2023-01-05",
-      "status": "pending_review"
+      "status": "escalated",
+      "reason": "license_unverifiable",
+      "verified_license": "other",
+      "last_audited": "2026-11-11"
     }
   ]
 }
